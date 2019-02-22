@@ -1,1 +1,1 @@
-# Ticket booking application
+# Ticket booking application using Drupal 7
